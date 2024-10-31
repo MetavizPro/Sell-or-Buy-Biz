@@ -28,7 +28,7 @@ The *Sell or Buy Biz* website is built on the *Brilliant Directory* platform, pr
 - **Informative Resources:** Access comprehensive guides and resources that clarify the selling, buying, and investment processes, empowering users to make informed decisions.
 
 
-![Uploading Artboard 3 (7).png…]()
+![Artboard 3 (7)](https://github.com/user-attachments/assets/d4e5d4be-2f01-4fd3-8c3d-589da4a927de)
 
 ## 💻 Languages Used
 
